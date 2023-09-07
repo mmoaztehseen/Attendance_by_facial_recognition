@@ -1,7 +1,10 @@
 # Attendance_by_facial_recognition(Artificial Intelligence)
-Final Project >>>> Atendance by Facial Recognition
-Group Members >>>> M. Moaz Tehseen(BCSF19M539)
-		   M. Faizan Tahir(BCSF19M520)
+*****************************************************************************************************************************************
+Final Project: Atendance by Facial Recognition
+*****************************************************************************************************************************************
+Group Members:
+M. Moaz Tehseen(BCSF19M539)
+M. Faizan Tahir(BCSF19M520)
 
 Libraries:
 
