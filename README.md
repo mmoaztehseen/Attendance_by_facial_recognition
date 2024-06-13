@@ -3,7 +3,7 @@
                                              Final Project: Artificial Intelligence (Python)
 *****************************************************************************************************************************************
 
-#Libraries:
+Libraries:
 
 I have used the folowing Libraries in this project:
 1. cmake
