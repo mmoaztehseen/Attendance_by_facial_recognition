@@ -54,21 +54,42 @@ The script `attendance.py` includes the following key features:
 
 *****************************************************************************************************************************************
 
-## Usage
+## Running the Project in PyCharm
 
-To run the project, execute the `attendance.py` script. Ensure you have all the necessary libraries installed and the `images/` folder populated with the images of individuals to be recognized.
+To run the project in PyCharm, follow these steps:
 
-### Steps to Run the Project
+1. **Clone the Repository or Copy Project Files**: Ensure you have the project files on your local machine. If you have the repository link, you can clone it using Git, or simply copy the project files.
 
-1. **Install Dependencies**: Ensure you have all required libraries installed. You can install them using pip:
-   ```sh
-   pip install cmake dlib opencv-python face-recognition numpy
-   ```
-2. **Prepare Images**: Place the images of individuals to be recognized in the images/ folder. Ensure the image filenames correspond to the person's name.
-3. **Run the Script**: Execute the attendance.py script:
-   ```sh
-   python attendance.py
-   ```
-4. **View Attendance**: Attendance records will be saved in the Attendance.csv file.
+2. **Open PyCharm**: Launch PyCharm on your machine.
+
+3. **Open the Project**: 
+   - Click on `File` -> `Open`.
+   - Navigate to the directory where your project files are located and select the folder. Click `OK`.
+
+4. **Install Dependencies**:
+   - Open the terminal within PyCharm by clicking on `View` -> `Tool Windows` -> `Terminal`.
+   - Install the required libraries by running the following command:
+     ```sh
+     pip install cmake dlib opencv-python face-recognition numpy
+     ```
+
+5. **Set Up the Project Interpreter**:
+   - Go to `File` -> `Settings` (or `PyCharm` -> `Preferences` on macOS).
+   - Navigate to `Project: [your_project_name]` -> `Python Interpreter`.
+   - Ensure that the correct Python interpreter is selected and that all necessary packages are installed.
+
+6. **Prepare Images**:
+   - Place the images of individuals to be recognized in the `images/` folder. Ensure the image filenames correspond to the person's name.
+
+7. **Run the Script**:
+   - Locate the `attendance.py` file in the Project Explorer (usually on the left side of the PyCharm window).
+   - Right-click on `attendance.py` and select `Run 'attendance'` from the context menu. Alternatively, you can open `attendance.py` and click the green play button in the upper right corner of the editor.
+
+8. **View Attendance**:
+   - After running the script, attendance records will be saved in the `Attendance.csv` file located in the project directory.
+   - You can open and view this file to see the attendance records.
+
+By following these steps, you will be able to run the facial recognition attendance system project in PyCharm successfully.
+
 
 *****************************************************************************************************************************************
