@@ -1,6 +1,6 @@
-                                                   #Attendance By Facial Recognition
+                                                   Attendance By Facial Recognition
 *****************************************************************************************************************************************
-                                             Final Project: Atendance by Facial Recognition
+                                             Final Project: Artificial Intelligence (Python)
 *****************************************************************************************************************************************
 
 #Libraries:
