@@ -2,13 +2,10 @@
 *****************************************************************************************************************************************
 Final Project: Atendance by Facial Recognition
 *****************************************************************************************************************************************
-Group Members:
-M. Moaz Tehseen(BCSF19M539)
-M. Faizan Tahir(BCSF19M520)
 
 Libraries:
 
-We have used the folowing Libraries in this project:
+I have used the folowing Libraries in this project:
 1. cmake
 2. dlib
 3. opencv-python
