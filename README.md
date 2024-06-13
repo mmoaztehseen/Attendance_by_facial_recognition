@@ -1,9 +1,9 @@
-# Attendance By Facial Recognition
+                                                   ## Attendance By Facial Recognition
 *****************************************************************************************************************************************
-Final Project: Atendance by Facial Recognition
+                                             Final Project: Atendance by Facial Recognition
 *****************************************************************************************************************************************
 
-Libraries:
+#Libraries:
 
 I have used the folowing Libraries in this project:
 1. cmake
